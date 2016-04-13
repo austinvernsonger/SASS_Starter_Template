@@ -5,7 +5,7 @@ Folder and File Structure for your SASS Project
 
 ## Structure
 
-Main.css
+**Main.scss**
 
 ### Base Folder
 
